@@ -9,7 +9,7 @@ Ich möchte zeigen, dass Programmieren für jeden zugänglich und verständlich 
 ## Projekte
 - **[Fang die Katze](https://scratch.mit.edu/projects/1115515319):** Ein Scratch-Projekt, das dir spielerisch zeigt, wie du Animationen und Klick-Events programmierst.
 - **[Labyrinth-Spiel](https://scratch.mit.edu/projects/1115114098):** Ein weiteres Scratch-Projekt, bei dem du lernst, wie du Bewegung, Kollisionen und Ziele implementierst.
-- **[Klick-Button-Projekt](https://github.com/DeinGitHub/Klick-Button-Projekt):** Ein Einstieg in Webentwicklung mit HTML, CSS und JavaScript.
+- **[Klick-Button-Projekt](https://github.com/FoehrsWorks/Klick-Button):** Ein Einstieg in Webentwicklung mit HTML, CSS und JavaScript.
 - **[Python-Starter-Notebook](https://colab.research.google.com/drive/18TT3PXkO45em9Frm_2_2z0auiFSmGXCq?usp=sharing):** Dein erster Schritt in Python mit Google Colab. Starte direkt und lerne, wie man „Hello, World!“ schreibt und einfache Programme erstellt.
 
 ## Lass uns gemeinsam lernen!
