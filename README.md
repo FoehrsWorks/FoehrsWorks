@@ -18,5 +18,5 @@ Hast du Ideen für neue Projekte oder möchtest du etwas Spezielles lernen? Schr
 ---
 
 ## Kontakt
-- **Scratch:** [FoehrsWorks](https://scratch.mit.edu/users/FoehrsWorks)
-- **YouTube:** [Link folgt bald!]
+- [**Scratch**](https://scratch.mit.edu/users/FoehrsWorks)
+- [**YouTube**](https://www.youtube.com/@F%C3%B6hrsWorks)
